@@ -1,4 +1,4 @@
-name: Flask WEb App Tests
+name: Flask Web App Tests
 
 on:
   push:
